@@ -1,7 +1,8 @@
 from django.db import models
 from django.contrib.auth.models import User
 
-class ClimbComment(models.Model):
+
+class UserSend(models.Model):
     climb = models.ForeignKey("Climb", on_delete=models.CASCADE, related_name="climb_comments")
     user = models.ForeignKey(User, on_delete=models.DO_NOTHING, related_name="user_comments")
     comment = models.CharField(max_length=(1000))
