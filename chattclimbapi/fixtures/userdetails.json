@@ -1,0 +1,12 @@
+[
+    {
+        "model": "treasuremapapi.userdetail",
+        "pk": "1",
+        "fields": {
+            "user": 1,
+            "ape_index": -4,
+            "birthday":"1993-07-21",
+            "height": 175.25
+        }
+    }
+]
