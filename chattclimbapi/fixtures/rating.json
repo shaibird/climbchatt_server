@@ -1,0 +1,44 @@
+[    
+    {        
+        "model": "chattclimbapi.rating",
+        "pk": 1,        
+        "fields": {
+            "rating": "0"      
+            }    
+    },    
+    {        
+        "model": "chattclimbapi.rating",        
+        "pk": 2,
+        "fields": {            
+            "rating": "1"      
+            }    
+    },    
+    {        
+        "model": "chattclimbapi.rating",   
+        "pk": 3,     
+        "fields": {            
+            "rating": "2"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.rating",   
+        "pk": 4,     
+        "fields": {            
+            "rating": "3"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.rating",   
+        "pk": 5,     
+        "fields": {            
+            "rating": "4"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.rating",   
+        "pk": 6,     
+        "fields": {            
+            "rating": "5"    
+            }    
+    }
+]

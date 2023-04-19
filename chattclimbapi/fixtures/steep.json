@@ -1,0 +1,30 @@
+[    
+    {        
+        "model": "chattclimbapi.steep",
+        "pk": 1,        
+        "fields": {
+            "steep": "slab"      
+            }    
+    },    
+    {        
+        "model": "chattclimbapi.steep",        
+        "pk": 2,
+        "fields": {            
+            "steep": "vert"      
+            }    
+    },    
+    {        
+        "model": "chattclimbapi.steep",   
+        "pk": 3,     
+        "fields": {            
+            "steep": "overhang"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.steep",   
+        "pk": 4,     
+        "fields": {            
+            "steep": "roof"    
+            }    
+    }
+]

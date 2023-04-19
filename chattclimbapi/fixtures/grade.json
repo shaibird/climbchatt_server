@@ -1,0 +1,140 @@
+[    
+    {        
+        "model": "chattclimbapi.grade",
+        "pk": 1,        
+        "fields": {
+            "grade": "0"      
+            }    
+    },    
+    {        
+        "model": "chattclimbapi.grade",        
+        "pk": 2,
+        "fields": {            
+            "grade": "1"      
+            }    
+    },    
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 3,     
+        "fields": {            
+            "grade": "2"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 4,     
+        "fields": {            
+            "grade": "3"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 5,     
+        "fields": {            
+            "grade": "4"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 6,     
+        "fields": {            
+            "grade": "5"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 7,     
+        "fields": {            
+            "grade": "6"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 8,     
+        "fields": {            
+            "grade": "7"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 9,     
+        "fields": {            
+            "grade": "8"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 10,     
+        "fields": {            
+            "grade": "9"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 11,     
+        "fields": {            
+            "grade": "10"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 12,     
+        "fields": {            
+            "grade": "11"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 13,     
+        "fields": {            
+            "grade": "12"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 14,     
+        "fields": {            
+            "grade": "13"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 15,     
+        "fields": {            
+            "grade": "14"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 16,     
+        "fields": {            
+            "grade": "15"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 17,     
+        "fields": {            
+            "grade": "16"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 18,     
+        "fields": {            
+            "grade": "17"    
+            }    
+    },    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 19,     
+        "fields": {            
+            "grade": "18"    
+            }    
+    },    {        
+        "model": "chattclimbapi.grade",   
+        "pk": 20,     
+        "fields": {            
+            "grade": "19"    
+            }    
+    }
+]

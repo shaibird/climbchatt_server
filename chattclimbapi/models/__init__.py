@@ -3,15 +3,12 @@ from .climb import Climb
 from .crag_img import CragImage
 from .crag_type import CragType
 from .crag import Crag
-from .exposure import Exposure
 from .grade import Grade
 from .hold_type import HoldType
 from .profile_pic import ProfilePic
 from .rating import Rating
 from .steep import Steep
-from .style import Style
 from .user_details import UserDetail
 from .user_send import UserSend
 from .user_tick import UserTick
 from .weather import Weather
-from .user_details import UserDetail

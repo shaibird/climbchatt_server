@@ -6,3 +6,4 @@ class UserDetail(models.Model):
     ape_index = models.FloatField()
     birthday = models.DateField()
     height = models.FloatField()
+    bio = models.CharField(blank=True, null=True, max_length=400)

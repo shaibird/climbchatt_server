@@ -1,0 +1,23 @@
+[    
+    {        
+        "model": "chattclimbapi.cragtype",
+        "pk": 1,        
+        "fields": {
+            "type": "bouldering"      
+            }    
+    },    
+    {        
+        "model": "chattclimbapi.cragtype",        
+        "pk": 2,
+        "fields": {            
+            "type": "sport climbing"      
+            }    
+    },    
+    {        
+        "model": "chattclimbapi.cragtype",   
+        "pk": 3,     
+        "fields": {            
+            "type": "trad climbing"    
+            }    
+    }
+]

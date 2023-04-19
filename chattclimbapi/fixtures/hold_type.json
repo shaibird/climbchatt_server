@@ -1,0 +1,30 @@
+[    
+    {        
+        "model": "chattclimbapi.holdtype",
+        "pk": 1,        
+        "fields": {
+            "type": "sloper"      
+            }    
+    },    
+    {        
+        "model": "chattclimbapi.holdtype",        
+        "pk": 2,
+        "fields": {            
+            "type": "jug"      
+            }    
+    },    
+    {        
+        "model": "chattclimbapi.holdtype",   
+        "pk": 3,     
+        "fields": {            
+            "type": "crimp"    
+            }    
+    },
+    {        
+        "model": "chattclimbapi.holdtype",   
+        "pk": 4,     
+        "fields": {            
+            "type": "pinch"    
+            }    
+    }
+]
