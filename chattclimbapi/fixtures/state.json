@@ -1,0 +1,355 @@
+[
+    {
+        "model": "chattclimbapi.state",
+        "pk": 1,
+        "fields": {
+            "state": "Alabama"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 2,
+        "fields": {
+            "state": "Alaska"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 3,
+        "fields": {
+            "state": "Arizona"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 4,
+        "fields": {
+            "state": "Arkansas"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 5,
+        "fields": {
+            "state": "California"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 6,
+        "fields": {
+            "state": "Colorado"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 7,
+        "fields": {
+            "state": "Connecticut"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 8,
+        "fields": {
+            "state": "Delaware"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 9,
+        "fields": {
+            "state": "Florida"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 10,
+        "fields": {
+            "state": "Georgia"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 11,
+        "fields": {
+            "state": "Hawaii"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 12,
+        "fields": {
+            "state": "Idaho"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 13,
+        "fields": {
+            "state": "Illinois"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 14,
+        "fields": {
+            "state": "Indiana"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 15,
+        "fields": {
+            "state": "Iowa"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 16,
+        "fields": {
+            "state": "Kansas"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 17,
+        "fields": {
+            "state": "Kentucky"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 18,
+        "fields": {
+            "state": "Louisiana"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 19,
+        "fields": {
+            "state": "Maine"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 20,
+        "fields": {
+            "state": "Maryland"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 21,
+        "fields": {
+            "state": "Massachusetts"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 22,
+        "fields": {
+            "state": "Michigan"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 23,
+        "fields": {
+            "state": "Minnesota"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 24,
+        "fields": {
+            "state": "Mississippi"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 25,
+        "fields": {
+            "state": "Missouri"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 26,
+        "fields": {
+            "state": "Montana"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 27,
+        "fields": {
+            "state": "Nebraska"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 28,
+        "fields": {
+            "state": "Nevada"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 29,
+        "fields": {
+            "state": "New Hampshire"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 30,
+        "fields": {
+            "state": "New Jersey"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 31,
+        "fields": {
+            "state": "New Mexico"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 32,
+        "fields": {
+            "state": "New York"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 33,
+        "fields": {
+            "state": "North Carolina"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 34,
+        "fields": {
+            "state": "North Dakota"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 35,
+        "fields": {
+            "state": "Ohio"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 36,
+        "fields": {
+            "state": "Oklahoma"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 37,
+        "fields": {
+            "state": "Oregon"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 38,
+        "fields": {
+            "state": "Pennsylvania"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 39,
+        "fields": {
+            "state": "Rhode Island"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 40,
+        "fields": {
+            "state": "South Carolina"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 41,
+        "fields": {
+            "state": "South Dakota"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 42,
+        "fields": {
+            "state": "Tennessee"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 43,
+        "fields": {
+            "state": "Texas"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 44,
+        "fields": {
+            "state": "Utah"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 45,
+        "fields": {
+            "state": "Vermont"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 46,
+        "fields": {
+            "state": "Virginia"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 47,
+        "fields": {
+            "state": "Washington"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 48,
+        "fields": {
+            "state": "West Virginia"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 49,
+        "fields": {
+            "state": "Wisconsin"
+        }
+    },
+    {
+        "model": "chattclimbapi.state",
+        "pk": 50,
+        "fields": {
+            "state": "Wyoming"
+        }
+    }
+    ]
+
+
+        
