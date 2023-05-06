@@ -18,9 +18,10 @@ from django.conf.urls.static import static
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework import routers
-from chattclimbapi.views import login_user, register_user
+from chattclimbapi.views import login_user, register_user, CragView
 
 router = routers.DefaultRouter(trailing_slash=False)
+router.register(r'crags', CragView, "crags")
 
 urlpatterns = [
     path('admin/', admin.site.urls),

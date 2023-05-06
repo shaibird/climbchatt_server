@@ -1,0 +1,16 @@
+[
+    {
+        "model": "chattclimbapi.country",
+        "pk": 1,
+        "fields": {
+            "country": "united-states"
+        }
+    },
+    {
+        "model": "chattclimbapi.country",
+        "pk": 2,
+        "fields": {
+            "country": "france"
+        }
+    }
+]

@@ -8,10 +8,12 @@
             "latitude": 35.247716,
             "longitude": -85.21987,
             "state": 42,
-            "country": "United-States",
+            "country": 1,
             "description": "Super Mario, Deception, The Shield",
             "type": 1,
-            "access": "Owned and operated by the Montlake Golf Club, the property has been recently purchased by climbers, protecting the boulders and climbing. There is a $9 day fee that can be paid at the clubhouse. Crash pads can be rented for $10 a day. For more information, visit www.stoneforttn.com"
+            "access": "Owned and operated by the Montlake Golf Club, the property has been recently purchased by climbers, protecting the boulders and climbing. There is a $9 day fee that can be paid at the clubhouse. Crash pads can be rented for $10 a day. For more information, visit www.stoneforttn.com",
+            "private": false,
+            "user": 1
             }
     },
     {
@@ -23,10 +25,12 @@
             "latitude": 35.498646,
             "longitude": -85.081101,
             "state": 42,
-            "country": "United-States",
+            "country": 1,
             "description": "Michelin Man, El Cubano",
             "type": 1,
-            "access": "There are two different access points for Dogwood, east and west. Dogwood East is privately owned, but access to climbing is protected. A $5 fee is required for climbing, camping is available on site for $30 a night. Dogwood West is owned by the SCC, primarily a sport climbing crag, there are a couple of notable boulders that sit within this area. "
+            "access": "There are two different access points for Dogwood, east and west. Dogwood East is privately owned, but access to climbing is protected. A $5 fee is required for climbing, camping is available on site for $30 a night. Dogwood West is owned by the SCC, primarily a sport climbing crag, there are a couple of notable boulders that sit within this area.",
+            "private": false,
+            "user": 1
        }
     },
     {
@@ -38,340 +42,386 @@
             "latitude": 35.119645,
             "longitude": -85.319962,
             "state": 42,
-            "country": "United-States",
+            "country": 1,
             "description": "Cigar, Osiris",
             "type": 1,
-            "access": ""
+            "access": "",
+            "private": false,
+            "user": 1
 
 }    },
     {
       "model":"chattclimbapi.crag",
-       "pk": 4,
-       "fields": {
-      "name": "Upper Middle Creek",
-      "city": "Chattanooga",
-      "latitude": 35.147895,
-      "longitude": -85.352076,
-      "state": 42,
-      "country": "United-States",
-      "description": "Rustoleum, Bread and Butter",
-      "type": 1,
-      "access": ""
+      "pk": 4,
+      "fields": {
+          "name": "Upper Middle Creek",
+          "city": "Chattanooga",
+          "latitude": 35.147895,
+          "longitude": -85.352076,
+          "state": 42,
+          "country": 1,
+          "description": "Rustoleum, Bread and Butter",
+          "type": 1,
+          "access": "",
+          "private": false,
+          "user": 1
 
 }    },
     {
       "model":"chattclimbapi.crag",
-       "pk": 5,
-       "fields": {
-      "name": "Conner Creek",
-      "city": "Signal Mountain",
-      "latitude": 35.165989,
-      "longitude": -85.379355,
-      "state": 42,
-      "country": "United-States",
-      "description": "",
-      "type": 1,
-      "access": ""
+      "pk": 5,
+      "fields": {
+          "name": "Conner Creek",
+          "city": "Signal Mountain",
+          "latitude": 35.165989,
+          "longitude": -85.379355,
+          "state": 42,
+          "country": 1,
+          "description": "",
+          "type": 1,
+          "access": "",
+          "private": false,
+          "user": 1
 
 }    },
     {
       "model":"chattclimbapi.crag",
-       "pk": 6,
-       "fields": {
-      "name": "Laurel Snow Pocket Wilderness",
-      "city": "Dayton",
-      "latitude": 35.528425,
-      "longitude": -85.022223,
-      "state": 42,
-      "country": "United-States",
-      "description": "",
-      "type": 1,
-      "access": ""
+      "pk": 6,
+      "fields": {
+          "name": "Laurel Snow Pocket Wilderness",
+          "city": "Dayton",
+          "latitude": 35.528425,
+          "longitude": -85.022223,
+          "state": 42,
+          "country": 1,
+          "description": "",
+          "type": 1,
+          "access": "",
+          "private": false,
+          "user": 1
 
 }    },
     {
       "model":"chattclimbapi.crag",
-       "pk": 7,
-       "fields": {
-      "name": "Cumberland Boulders",
-      "city": "Soddy-Daisy",
-      "latitude": 35.26351,
-      "longitude": -85.189802,
-      "state": 42,
-      "country": "United-States",
-      "description": "Power Prow, 7-11 Roof,Texas Toast",
-      "type": 1,
-      "access": "Al
-      }so known as Pep Boys, the Cumberland boulders can be accessed by a half mile from the Mowbray Pike Trailhead of the Cumberland trail. Boulders will be in an obvious cluster. Please brush your ticks!"
+      "pk": 7,
+      "fields": {
+          "name": "Cumberland Boulders",
+          "city": "Soddy-Daisy",
+          "latitude": 35.26351,
+          "longitude": -85.189802,
+          "state": 42,
+          "country": 1,
+          "description": "Power Prow, 7-11 Roof,Texas Toast",
+          "type": 1,
+          "access": "Also known as Pep Boys, the Cumberland boulders can be accessed by a half mile from the Mowbray Pike Trailhead of the Cumberland trail. Boulders will be in an obvious cluster. Please brush your tick marks!",
+          "private": false,
+          "user": 1
+       }
     },
     {
       "model":"chattclimbapi.crag",
-       "pk": 8,
-       "fields": {
-      "name": "Suck Creek",
-      "city": "Chattanooga",
-      "latitude": 35.145568,
-      "longitude": -85.388239,
-      "state": 42,
-      "country": "United-States",
-      "description": "",
-      "type": 1,
-      "access": ""
+      "pk": 8,
+      "fields": {
+          "name": "Suck Creek",
+          "city": "Chattanooga",
+          "latitude": 35.145568,
+          "longitude": -85.388239,
+          "state": 42,
+          "country": 1,
+          "description": "",
+          "type": 1,
+          "access": "",
+          "private": false,
+          "user": 1
 
 }    },
     {
       "model":"chattclimbapi.crag",
-       "pk": 9,
-       "fields": {
+      "pk": 9,
+      "fields": {
       "name": "Lower Middle Creek",
       "latitude": 35.122742,
       "longitude": -85.3725,
       "city": "Chattanooga",
       "state": 42,
-      "country": "United-States",
+      "country": 1,
       "description": "",
       "type": 1,
-      "access": ""
+      "access": "Parking off of Suck Creek Road. It's recommended to place any valuables out of site in your vehicle",
+      "private": false,
+      "user": 1
 
 }    },
     {
       "model":"chattclimbapi.crag",
       "pk": 10,
-      "fields": {
-      "name": "Hell's Kitchen",
-      "city": "Graysville",
-      "latitude": 35.475767,
-      "longitude": -85.107419,
-      "state": 42,
-      "country": "United-States",
-      "description": "",
-      "type": 1,
-      "access": ""
+      "fields":{
+          "name": "Hell's Kitchen",
+          "city": "Graysville",
+          "latitude": 35.475767,
+          "longitude": -85.107419,
+          "state": 42,
+          "country": 1,
+          "description": "",
+          "type": 1,
+          "access": "",
+          "private": false,
+          "user": 1
       }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 11,
       "fields": {
-      "name": "Zahnd",
-      "city": "Menlo",
-      "latitude": 34.652713,
-      "longitude": -85.472353,
-      "state": 10,
-      "country": "United-States",
-      "description": "Razors Edge",
-      "type": 1,
-      "access": "L
-      }ocated on Georgia State Land. Check Hunting dates, and make sure you have your land permit handy."
-    },
+          "name": "Zahnd",
+          "city": "Menlo",
+          "latitude": 34.652713,
+          "longitude": -85.472353,
+          "state": 10,
+          "country": 1,
+          "description": "Razors Edge",
+          "type": 1,
+          "access": "Located on Georgia State Land. Check Hunting dates, and make sure you have your land permit handy.",
+          "private": false,
+          "user": 1
+      }
+        },
     {
       "model":"chattclimbapi.crag",
       "pk": 12,
       "fields": {
-      "name": "Morgan Creek",
-      "city": "Dayton",
-      "latitude": 35.538501,
-      "longitude": -85.037523,
-      "state": 42,
-      "country": "United-States",
-      "description": "",
-      "type": 1,
-      "access": ""
+          "name": "Morgan Creek",
+          "city": "Dayton",
+          "latitude": 35.538501,
+          "longitude": -85.037523,
+          "state": 42,
+          "country": 1,
+          "description": "",
+          "type": 1,
+          "access": "Located in Laurel Snow Pocket Wilderness, creek shuffling required.",
+          "private": true,
+          "user": 1
       }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 13,
       "fields": {
-      "name": "Caney Fork",
-      "city": "Sparta",
-      "latitude": 35.845558,
-      "longitude": -85.250274,
-      "state": 42,
-      "country": "United-States",
-      "description": "",
-      "type": 1,
-      "access": ""
+            "name": "Caney Fork",
+            "city": "Sparta",
+            "latitude": 35.845558,
+            "longitude": -85.250274,
+            "state": 42,
+            "country": 1,
+            "description": "",
+            "type": 1,
+            "access": "",
+            "private": true,
+            "user": 1
       }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 14,
       "fields": {
-      "name": "Rocktown",
-      "city": "Lafayette",
-      "latitude": 34.658958,
-      "longitude": -85.389721,
-      "state": 10,
-      "country": "United-States",
-      "description": "Nose Candy, Golden Showers, The Orb",
-      "type": 1,
-      "access": "L
-      }ocated on Georgia State Land. Check Hunting dates, and make sure you have your land permit handy."
+          "name": "Rocktown",
+          "city": "Lafayette",
+          "latitude": 34.658958,
+          "longitude": -85.389721,
+          "state": 10,
+          "country": 1,
+          "description": "Nose Candy, Golden Showers, The Orb",
+          "type": 1,
+          "access": "Located on Georgia State Land. Check Hunting dates, and make sure you have your land permit handy. Rangers will often sit in the parking lot ready to give you a ticket without a permit in hand.",
+          "private": false,
+          "user": 1
+      }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 15,
       "fields": {
-      "name": "The Obed",
-      "city": "Lancing",
-      "latitude": 36.103276,
-      "longitude": -84.713592,
-      "state": 42,
-      "country": "United-States",
-      "description": "",
-      "type": 1,
-      "access": ""
+          "name": "The Obed",
+          "city": "Lancing",
+          "latitude": 36.103276,
+          "longitude": -84.713592,
+          "state": 42,
+          "country": 1,
+          "description": "",
+          "type": 1,
+          "access": "",
+          "private": false,
+          "user": 1
       }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 16,
       "fields": {
-      "name": "Horse Pens 40",
-      "city": "Steele",
-      "latitude": 33.923137,
-      "longitude": -86.307194,
-      "state": 1,
-      "country": "United-States",
-      "description": "Bum Boys, God Module",
-      "type": 1,
-      "access": "P
-      }rivately owned boulderfield. Pay at the shop at the parking lot. No dogs allowed"
+          "name": "Horse Pens 40",
+          "city": "Steele",
+          "latitude": 33.923137,
+          "longitude": -86.307194,
+          "state": 1,
+          "country": 1,
+          "description": "Bum Boys, God Module",
+          "type": 1,
+          "access": "Privately owned boulderfield. Pay at the shop at the parking lot. No dogs allowed",
+          "private": false,
+          "user": 1
+      }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 17,
       "fields": {
-      "name": "Hospital Boulders",
-      "city": "Gadsden",
-      "latitude": 34.076257,
-      "longitude": -86.018652,
-      "state": 1,
-      "country": "United-States",
-      "description": "No Parking on the Dance Floor, Hustle & Flow",
-      "type": 1,
-      "access": "S
-      }CC owned, a gate code is required for access. Gate code can be found on the SCC website."
+          "name": "Hospital Boulders",
+          "city": "Gadsden",
+          "latitude": 34.076257,
+          "longitude": -86.018652,
+          "state": 1,
+          "country": 1,
+          "description": "No Parking on the Dance Floor, Hustle & Flow",
+          "type": 1,
+          "access": "SCC owned, a gate code is required for access. Gate code can be found on the SCC website.",
+          "private": false,
+          "user": 1
+      }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 18,
       "fields": {
-      "name": "Rumbling Bald",
-      "city": "Lake Lure",
-      "latitude": 35.448934,
-      "longitude": -82.217037,
-      "state": 33,
-      "country": "United-States",
-      "description": "",
-      "type": 1,
-      "access": ""
+          "name": "Rumbling Bald",
+          "city": "Lake Lure",
+          "latitude": 35.448934,
+          "longitude": -82.217037,
+          "state": 33,
+          "country": 1,
+          "description": "",
+          "type": 1,
+          "access": "",
+          "private": false,
+          "user": 1
       }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 19,
       "fields": {
-      "name": "Moores Wall",
-      "city": "Winston-Salem",
-      "latitude": 36.399441,
-      "longitude": -80.290565,
-      "state": 33,
-      "country": "United-States",
-      "description": "",
-      "type": 1,
-      "access": ""
+          "name": "Moores Wall",
+          "city": "Winston-Salem",
+          "latitude": 36.399441,
+          "longitude": -80.290565,
+          "state": 33,
+          "country": 1,
+          "description": "",
+          "type": 1,
+          "access": "",
+          "private": false,
+          "user": 1
       }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 20,
       "fields": {
-      "name": "Linville Gorge",
-      "city": "Linville",
-      "latitude": 35.904931,
-      "longitude": -81.895244,
-      "state": 33,
-      "country": "United-States",
-      "description": "",
-      "type": 1,
-      "access": ""
+          "name": "Linville Gorge",
+          "city": "Linville",
+          "latitude": 35.904931,
+          "longitude": -81.895244,
+          "state": 33,
+          "country": 1,
+          "description": "",
+          "type": 1,
+          "access": "",
+          "private": false,
+          "user": 1
       }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 21,
       "fields": {
-      "name": "Grayson Highlands",
-      "city": "Mouth of Wilson",
-      "latitude": 36.625068,
-      "longitude": -81.498931,
-      "state": 46,
-      "country": "United-States",
-      "description": "",
-      "type": 1,
-      "access": ""
-      }
+          "name": "Grayson Highlands",
+          "city": "Mouth of Wilson",
+          "latitude": 36.625068,
+          "longitude": -81.498931,
+          "state": 46,
+          "country": 1,
+          "description": "",
+          "type": 1,
+          "access": "",
+          "private": false,
+          "user": 1
+          }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 22,
       "fields": {
-      "name": "New River Gorge",
-      "city": "Lansing",
-      "latitude": 37.877465,
-      "longitude": -81.019192,
-      "state": 48,
-      "country": "United-States",
-      "description": "",
-      "type": 1,
-      "access": ""
+          "name": "New River Gorge",
+          "city": "Lansing",
+          "latitude": 37.877465,
+          "longitude": -81.019192,
+          "state": 48,
+          "country": 1,
+          "description": "",
+          "type": 1,
+          "access": "",
+          "private": false,
+          "user": 1
       }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 24,
       "fields": {
-      "name": "Citadel",
-      "city": "Fort Payne",
-      "latitude": 34.475009,
-      "longitude": -85.668943,
-      "state": 1,
-      "country": "United-States",
-      "description": "Ninja Camp, The Snail, Big Poppa",
-      "type": 1,
-      "access": "Y
-      }ou're not really allowed to climb here."
+          "name": "Citadel",
+          "city": "Fort Payne",
+          "latitude": 34.475009,
+          "longitude": -85.668943,
+          "state": 1,
+          "country": 1,
+          "description": "Ninja Camp, The Snail, Big Poppa",
+          "type": 1,
+          "access": "You're not really allowed to climb here.",
+          "private": true,
+          "user": 1
+      }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 25,
       "fields": {
-      "name": "Ochs Hwy",
-      "city": "Lookout",
-      "latitude": 34.986879,
-      "longitude": -85.344599,
-      "state": 42,
-      "country": "United-States",
-      "description": "A couple little boulders right off of the highway up Lookout Mountain. Nine Lives, Constellation Chaos",
-      "type": 1,
-      "access": "P
-      }ark on the side of Ochs Highway, directly across from the boulders. Really Short Hike up! If parking area is full, please go elsewhere."
+          "name": "Ochs Hwy",
+          "city": "Lookout",
+          "latitude": 34.986879,
+          "longitude": -85.344599,
+          "state": 42,
+          "country": 1,
+          "description": "A couple little boulders right off of the highway up Lookout Mountain. Nine Lives, Constellation Chaos",
+          "type": 1,
+          "access": "Park on the side of Ochs Highway, directly across from the boulders. Really Short Hike up! If parking area is full, please go elsewhere.",
+          "private": false,
+          "user": 1
+      }
     },
     {
       "model":"chattclimbapi.crag",
       "pk": 26,
       "fields": {
-      "name": "Holy Boulders",
-      "city": "Alto Pass",
-      "latitude": 37.619151,
-      "longitude": -89.418661,
-      "state": 13,
-      "country": "United-States",
-      "description": "",
-      "type": 1,
-      "access": ""
+          "name": "Holy Boulders",
+          "city": "Alto Pass",
+          "latitude": 37.619151,
+          "longitude": -89.418661,
+          "state": 13,
+          "country": 1,
+          "description": "",
+          "type": 1,
+          "access": "",
+          "private": false,
+          "user": 1
       }
     }
-  ],
+  ]

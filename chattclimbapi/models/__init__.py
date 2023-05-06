@@ -13,3 +13,4 @@ from .user_send import UserSend
 from .user_tick import UserTick
 from .weather import Weather
 from .state import State
+from .country import Country
